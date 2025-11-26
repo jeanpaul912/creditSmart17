@@ -129,6 +129,19 @@ creditSmart/
 - Los datos no persisten si recargás la página
 - Se puede expandir en el futuro para guardar datos en una base de datos
 
+## Capturas de Pantalla
+
+### Página de Inicio
+![Home]![photo_1_2025-11-26_14-23-27](https://github.com/user-attachments/assets/83943e5d-9942-4a9d-b45c-f2ed90da7aff)
+
+### Simulador
+![Simulador]![photo_2_2025-11-26_14-23-27](https://github.com/user-attachments/assets/2f5e8d95-df5d-4a94-aaf6-3445d507725b)
+
+
+### Solicitar Crédito
+![Formulario]![photo_3_2025-11-26_14-23-27](https://github.com/user-attachments/assets/a5bd1643-45b9-4cdf-9975-80ef1ae9e39b)
+
+
 ## Autor
 
 [jean paul]
