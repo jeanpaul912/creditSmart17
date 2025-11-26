@@ -131,7 +131,7 @@ creditSmart/
 
 ## Autor
 
-[Tu Nombre]
+[jean paul]
 
 ## Licencia
 
