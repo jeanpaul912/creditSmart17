@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+input, select, textarea {
+  color: #333;
+  background-color: #fff;
+}
+
+input::placeholder {
+  color: #999;
+}
+
+label {
+  color: #333;
+}
+
+h1, h2, h3 {
+  color: #333;
+}
+
+p {
+  color: #333;
+}
